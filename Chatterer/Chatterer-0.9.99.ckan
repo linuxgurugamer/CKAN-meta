@@ -6,12 +6,14 @@
     "author": "Athlonic",
     "version": "0.9.99",
     "ksp_version_min": "1.8.0",
-    "ksp_version_max": "1.9.99",
+    "ksp_version_max": "1.11.99",
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/83290-105-chatterer-v097-keep-talking-11-nov-2015/&page=1",
         "spacedock": "https://spacedock.info/mod/208/Chatterer",
         "repository": "https://github.com/Athlonic/Chatterer",
+        "bugtracker": "https://github.com/Athlonic/Chatterer/issues",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=27",
         "x_screenshot": "https://spacedock.info/content/Athlonic_476/Chatterer/Chatterer-1466941135.9980326.png"
     },
     "tags": [

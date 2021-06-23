@@ -5,7 +5,8 @@
     "abstract": "This is a 4K Skybox i made using SpaceEngine.",
     "author": "LOL221",
     "version": "1.1",
-    "ksp_version": "1.8.1",
+    "ksp_version_min": "1.4.5",
+    "ksp_version_max": "1.11.2",
     "license": "GPL-3.0",
     "resources": {
         "spacedock": "https://spacedock.info/mod/1943/Out%20of%20Galaxy%20Skybox",
@@ -22,33 +23,8 @@
     ],
     "install": [
         {
-            "find_regexp": "GalaxyTex_PositiveX.png",
-            "install_to": "GameData/TextureReplacer/Default",
-            "find_matches_files": true
-        },
-        {
-            "find_regexp": "GalaxyTex_PositiveY.png",
-            "install_to": "GameData/TextureReplacer/Default",
-            "find_matches_files": true
-        },
-        {
-            "find_regexp": "GalaxyTex_PositiveZ.png",
-            "install_to": "GameData/TextureReplacer/Default",
-            "find_matches_files": true
-        },
-        {
-            "find_regexp": "GalaxyTex_NegativeX.png",
-            "install_to": "GameData/TextureReplacer/Default",
-            "find_matches_files": true
-        },
-        {
-            "find_regexp": "GalaxyTex_NegativeY.png",
-            "install_to": "GameData/TextureReplacer/Default",
-            "find_matches_files": true
-        },
-        {
-            "find_regexp": "GalaxyTex_NegativeZ.png",
-            "install_to": "GameData/TextureReplacer/Default",
+            "find_regexp": ".*\\.png",
+            "install_to": "GameData/OutOfGalaxySkybox/TextureReplacer/Default",
             "find_matches_files": true
         }
     ],

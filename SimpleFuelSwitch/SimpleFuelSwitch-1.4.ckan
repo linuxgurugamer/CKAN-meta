@@ -5,12 +5,14 @@
     "abstract": "Toggle tanks' fuel type in the edior (e.g. choose between LFO and liquid-fuel-only). Simple and lightweight.",
     "author": "Snark",
     "version": "1.4",
-    "ksp_version": "1.10.0",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.11.1",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181274-16x-simplefuelswitch-v10-toggle-tanks-fuel-type-in-the-editor-simple-and-lightweight/",
         "spacedock": "https://spacedock.info/mod/2053/SimpleFuelSwitch",
         "repository": "https://github.com/KSPSnark/SimpleFuelSwitch",
+        "bugtracker": "https://github.com/KSPSnark/SimpleFuelSwitch/issues",
         "x_screenshot": "https://spacedock.info/content/Snark_166/SimpleFuelSwitch/SimpleFuelSwitch-1547089138.553252.png"
     },
     "tags": [

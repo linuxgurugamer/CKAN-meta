@@ -9,11 +9,12 @@
     ],
     "version": "1:1.1.0.1",
     "ksp_version_min": "1.7.0",
-    "ksp_version_max": "1.10.0",
+    "ksp_version_max": "1.11.2",
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-*",
-        "spacedock": "https://spacedock.info/mod/1614/ZeroMiniAVC"
+        "spacedock": "https://spacedock.info/mod/1614/ZeroMiniAVC",
+        "remote-avc": "http://ksp.spacetux.net/avc/ZeroMiniAVC"
     },
     "tags": [
         "plugin",

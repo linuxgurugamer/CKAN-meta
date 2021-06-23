@@ -13,7 +13,7 @@
         "x_screenshot": "https://spacedock.info/content/GregroxMun_214/Gregroxs_Multi_Color_Suit_Pack_2.0/Gregroxs_Multi_Color_Suit_Pack_2.0-1545089712.096736.png"
     },
     "tags": [
-        "config",
+        "suits",
         "graphics",
         "crewed"
     ],
@@ -25,11 +25,11 @@
     "install": [
         {
             "find": "GameData/TextureReplacer",
-            "install_to": "GameData"
+            "install_to": "GameData/GregroxMultiColorSuitsPack"
         },
         {
             "find": "Extras/TextureReplacer",
-            "install_to": "GameData"
+            "install_to": "GameData/GregroxMultiColorSuitsPack"
         }
     ],
     "download": "https://spacedock.info/mod/2030/Gregrox%27s%20Multi%20Color%20Suit%20Pack%202.0/download/2.0",

@@ -6,12 +6,14 @@
     "author": "Athlonic",
     "version": "1.8.0",
     "ksp_version_min": "1.8.0",
-    "ksp_version_max": "1.8.99",
+    "ksp_version_max": "1.11.99",
     "license": "GPL-3.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/39470-113-lcd-launch-countdown-v177-26-jun-2016/",
         "spacedock": "https://spacedock.info/mod/791/LCD%20-%20Launch%20CountDown",
         "repository": "https://github.com/Athlonic/LaunchCountDown",
+        "bugtracker": "https://github.com/Athlonic/LaunchCountDown/issues",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=61",
         "x_screenshot": "https://spacedock.info/content/Athlonic_476/LCD_-_Launch_CountDown/LCD_-_Launch_CountDown-1466941573.4941287.jpg"
     },
     "tags": [

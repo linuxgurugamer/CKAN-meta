@@ -10,7 +10,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155020-*",
         "repository": "https://github.com/linuxgurugamer/PicoPort4AllSizes",
-        "bugtracker": "https://github.com/linuxgurugamer/PicoPort4AllSizes/issues"
+        "bugtracker": "https://github.com/linuxgurugamer/PicoPort4AllSizes/issues",
+        "remote-avc": "http://ksp.spacetux.net/avc/PicoPort4AllSizes"
     },
     "tags": [
         "config"
@@ -25,8 +26,8 @@
     ],
     "install": [
         {
-            "install_to": "GameData",
-            "find": "SHED"
+            "find": "SHED",
+            "install_to": "GameData"
         }
     ],
     "download": "https://github.com/linuxgurugamer/PicoPort4AllSizes/releases/download/0.1.2.3/PicoPort4AllSizes-0.1.2.3.zip",

@@ -5,6 +5,15 @@
     "abstract": "Makes re-entry much more dangerous",
     "author": [
         "NathanKell",
+        "SirKeplan",
+        "StollD",
+        "al2me6",
+        "blowfishpro",
+        "cherrydev",
+        "pjf",
+        "rsparkyc",
+        "stratochief66",
+        "zorg2044",
         "Starwaster"
     ],
     "version": "v7.8.0",
@@ -14,7 +23,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/50296-*",
         "repository": "https://github.com/Starwaster/DeadlyReentry",
-        "bugtracker": "https://github.com/Starwaster/DeadlyReentry/issues"
+        "bugtracker": "https://github.com/Starwaster/DeadlyReentry/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Starwaster/DeadlyReentry/master/DeadlyReentry/DeadlyReentry.version"
     },
     "tags": [
         "plugin",

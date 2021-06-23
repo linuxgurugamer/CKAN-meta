@@ -6,12 +6,13 @@
     "author": "TheProtagonists",
     "version": "v1.1.1",
     "ksp_version_min": "1.3.1",
-    "ksp_version_max": "1.5.1",
-    "license": "CC-BY-NC-ND-4.0",
+    "ksp_version_max": "1.6.1",
+    "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175432-*",
         "repository": "https://github.com/TheProtagonists/TheWorldBeyond",
-        "bugtracker": "https://github.com/TheProtagonists/TheWorldBeyond/issues"
+        "bugtracker": "https://github.com/TheProtagonists/TheWorldBeyond/issues",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=589"
     },
     "tags": [
         "config",

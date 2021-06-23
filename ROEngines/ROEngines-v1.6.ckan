@@ -10,12 +10,13 @@
     "version": "v1.6",
     "ksp_version_min": "1.8.1",
     "ksp_version_max": "1.9.99",
-    "license": "CC-BY-SA-4.0",
+    "license": "CC-BY-NC-ND",
     "release_status": "stable",
     "resources": {
         "homepage": "https://discordapp.com/invite/ZGbR6nv",
         "repository": "https://github.com/KSP-RO/ROEngines",
-        "bugtracker": "https://github.com/KSP-RO/ROEngines/issues"
+        "bugtracker": "https://github.com/KSP-RO/ROEngines/issues",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/ROEngines/master/GameData/ROEngines/ROEngines.version"
     },
     "tags": [
         "parts",

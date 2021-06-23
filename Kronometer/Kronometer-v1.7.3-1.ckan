@@ -2,7 +2,7 @@
     "spec_version": "v1.4",
     "identifier": "Kronometer",
     "name": "Kronometer",
-    "abstract": "A mod to manipulate the clock for Kerbal Space Program.",
+    "abstract": "A mod to manipulate the clock for Kerbal Space Program",
     "author": [
         "Thomas P.",
         "Sigma88"
@@ -13,7 +13,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161218-*",
         "repository": "https://github.com/Kopernicus/Kronometer",
-        "bugtracker": "https://github.com/Kopernicus/Kronometer/issues"
+        "bugtracker": "https://github.com/Kopernicus/Kronometer/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Kopernicus/Kronometer/master/Distribution/Release/GameData/Kronometer/Plugins/Kronometer.version"
     },
     "tags": [
         "plugin",

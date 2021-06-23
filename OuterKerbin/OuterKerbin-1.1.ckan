@@ -5,12 +5,14 @@
     "abstract": "An Expansion of the Kerbin SOI. Adding a new planet & moon beyond Minmus for you to explore!",
     "author": "dxeh",
     "version": "1.1",
-    "ksp_version": "1.8.1",
+    "ksp_version_min": "1.7.3",
+    "ksp_version_max": "1.11.1",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181679-16x-outer-kerbin/",
         "spacedock": "https://spacedock.info/mod/2066/Outer%20Kerbin",
-        "repository": "https://github.com/dxeh/Outer-Kerbin/releases",
+        "repository": "https://github.com/dxeh/Outer-Kerbin",
+        "bugtracker": "https://github.com/dxeh/Outer-Kerbin/issues",
         "x_screenshot": "https://spacedock.info/content/dxeh_24745/Outer_Kerbin/Outer_Kerbin-1548434381.7896698.jpg"
     },
     "tags": [

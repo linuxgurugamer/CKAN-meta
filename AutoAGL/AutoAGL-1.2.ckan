@@ -5,12 +5,14 @@
     "abstract": "Automatically switches altimeter between AGL and ASL as appropriate. Configurable settings.",
     "author": "Snark",
     "version": "1.2",
-    "ksp_version": "1.10.0",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.11.1",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183601-17x-autoagl-v10-automatically-switches-altimeter-between-agl-and-asl-as-appropriate/",
         "spacedock": "https://spacedock.info/mod/2133/AutoAGL",
         "repository": "https://github.com/KSPSnark/AutoAGL",
+        "bugtracker": "https://github.com/KSPSnark/AutoAGL/issues",
         "x_screenshot": "https://spacedock.info/content/Snark_166/AutoAGL/AutoAGL-1554930233.2171195.png"
     },
     "tags": [

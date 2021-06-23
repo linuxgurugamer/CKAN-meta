@@ -6,12 +6,14 @@
     "author": "linuxgurugamer",
     "version": "0.1.17.1",
     "ksp_version_min": "1.8.0",
-    "ksp_version_max": "1.8.1",
+    "ksp_version_max": "1.10.1",
     "license": "GPL-2.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/157896-122-fusebox-continued-electric-charge-tracker-and-build-helper/",
         "spacedock": "https://spacedock.info/mod/1263/FuseBox%20Continued",
         "repository": "https://github.com/linuxgurugamer/FuseBoxContinued",
+        "bugtracker": "https://github.com/linuxgurugamer/FuseBoxContinued/issues",
+        "remote-avc": "http://ksp.spacetux.net/avc/FuseBoxContinued",
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/FuseBox_Continued/FuseBox_Continued-1489890268.7722282.jpg"
     },
     "tags": [

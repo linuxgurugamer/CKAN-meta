@@ -12,7 +12,8 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133579-*",
         "repository": "https://github.com/KSP-RO/SovietSpacecraft",
-        "bugtracker": "https://github.com/KSP-RO/SovietSpacecraft/issues"
+        "bugtracker": "https://github.com/KSP-RO/SovietSpacecraft/issues",
+        "remote-avc": "http://raw.githubusercontent.com/KSP-RO/SovietSpacecraft/master/GameData/RN_Soyuz/SovietSpacecraft.version"
     },
     "tags": [
         "parts",
@@ -40,12 +41,6 @@
     "conflicts": [
         {
             "name": "RN-SalyutStations-SoyuzFerries"
-        },
-        {
-            "name": "ROCapsules"
-        },
-        {
-            "name": "ROEngines"
         }
     ],
     "install": [
